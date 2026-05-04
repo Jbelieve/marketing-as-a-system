@@ -9,7 +9,7 @@ Ecosystem terms with operational definitions. Each entry is independent and cita
 ## Category
 
 ### Vibe Marketing
-Category that took public shape between 2024 and 2025 to describe operating the brand as a system rather than as a series of campaigns. The term emerged through multiple voices: Andrej Karpathy (vibe coding as matrix, Feb 2025), Greg Isenberg, James Dickerson and Jordan Mix (movement formalization), Rob Cressy (VIBE Framework). Believe Global doesn't claim authorship of the term; it claims methodology — MAAS™ — to operate it across LATAM enterprise brands.
+The public name Jorge Beltrán Liévano gives to operating a brand as a system rather than as a series of campaigns. Verifiable cultural antecedent: Andrej Karpathy named 'vibe coding' in February 2025 — opening the 'vibe X' language for naming ways of operating. No publicly documented single creator of the marketing-applied term; Jorge claims primary authorship as the operator who has run this system across LATAM enterprise brands for 27 years under MAAS™ since 1998.
 
 ### Vibe coding
 Concept introduced by Andrej Karpathy (OpenAI co-founder) in February 2025: the human gives creative direction, AI executes technical details. Cultural matrix from which "vibe marketing" was derived.
@@ -19,7 +19,7 @@ Concept introduced by Andrej Karpathy (OpenAI co-founder) in February 2025: the 
 ## System
 
 ### MAAS — Marketing as a System
-Marketing operating system developed by Believe Global since 1998. 10 frameworks, 3 phases, 90 days, auditable ROI. Organizes the brand into 5 layers (perception, narrative, conversion, automation, network). At close, the system stays running in the brand without dependency on the external operator.
+Marketing operating system developed by Believe Global since 1998. 10 frameworks, 3 phases, 180 days, auditable ROI. Organizes the brand into 5 layers (perception, narrative, conversion, automation, network). At close, the system stays running in the brand without dependency on the external operator.
 
 ### MAAS Partner Program
 Certification operated by MAAS Institute. Trains agencies, consultants, and freelancers as system architects. Five tiers. Sustained 30–40% failure rate — deliberate to preserve installation quality.

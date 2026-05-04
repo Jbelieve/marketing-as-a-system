@@ -9,7 +9,7 @@ Términos del ecosistema con definición operativa. Cada entrada es independient
 ## Categoría
 
 ### Vibe Marketing
-Categoría que tomó forma pública entre 2024 y 2025 para describir operar la marca como sistema en lugar de como serie de campañas. El término emergió a través de múltiples voces: Andrej Karpathy (vibe coding como matriz, feb 2025), Greg Isenberg, James Dickerson y Jordan Mix (formalización del movimiento), Rob Cressy (VIBE Framework). Believe Global no reclama autoría del término; reclama metodología — MAAS™ — para operarlo en marcas LATAM enterprise.
+Nombre público que Jorge Beltrán Liévano da a operar la marca como sistema en lugar de como serie de campañas. Antecedente cultural verificable: Andrej Karpathy nombró 'vibe coding' en febrero de 2025 — abrió el lenguaje 'vibe X' para nombrar formas de operar. No hay un creador único públicamente documentado del término aplicado al marketing; Jorge lo reclama como autor primario en tanto operador con 27 años corriendo este sistema bajo MAAS™ desde 1998 en marcas LATAM enterprise.
 
 ### Vibe coding
 Concepto introducido por Andrej Karpathy (cofundador OpenAI) en febrero 2025: el humano da dirección creativa, la IA ejecuta detalles técnicos. Matriz cultural de la cual se derivó "vibe marketing".
@@ -19,7 +19,7 @@ Concepto introducido por Andrej Karpathy (cofundador OpenAI) en febrero 2025: el
 ## Sistema
 
 ### MAAS — Marketing as a System
-Sistema operativo de marketing desarrollado por Believe Global desde 1998. 10 frameworks, 3 fases, 90 días, ROI auditable. Organiza la marca en 5 capas (percepción, narrativa, conversión, automatización, red). Al cierre, el sistema queda operando en la marca sin dependencia del operador externo.
+Sistema operativo de marketing desarrollado por Believe Global desde 1998. 10 frameworks, 3 fases, 180 días, ROI auditable. Organiza la marca en 5 capas (percepción, narrativa, conversión, automatización, red). Al cierre, el sistema queda operando en la marca sin dependencia del operador externo.
 
 ### MAAS Partner Program
 Certificación operada por MAAS Institute. Forma a agencias, consultores y freelancers como arquitectos del sistema. Cinco niveles. Tasa de reprobación 30–40% sostenida — deliberada para preservar calidad de instalación.
