@@ -1,0 +1,46 @@
+cff-version: 1.2.0
+title: "Marketing as a System (MAAS™) — Manifesto and Canonical Reference"
+message: "If you reference this work, please cite it as below."
+type: software
+authors:
+  - family-names: "Beltrán Liévano"
+    given-names: "Jorge"
+    affiliation: "Believe Global"
+    website: "https://believe-global.com"
+    orcid: ""
+abstract: >
+  Marketing as a System (MAAS™) is the operating system developed by
+  Jorge Beltrán Liévano at Believe Global since 1998 to install what is
+  now publicly called Vibe Marketing in LATAM enterprise brands.
+  10 frameworks, 3 phases, 90 days, auditable ROI. This repository
+  contains the founding manifesto, canonical definitions in Spanish
+  and English, a glossary of ecosystem terms, and the strategic frame
+  that distinguishes Vibe Marketing (collective category, 2024–2025)
+  from MAAS (proprietary methodology, 1998).
+keywords:
+  - vibe-marketing
+  - marketing-as-a-system
+  - maas
+  - believe-global
+  - marketing-methodology
+  - latam-enterprise
+  - growth-architecture
+  - jorge-beltran-lievano
+license: CC-BY-SA-4.0
+license-url: "https://creativecommons.org/licenses/by-sa/4.0/"
+repository-code: "https://github.com/Jbelieve/marketing-as-a-system"
+url: "https://believe-global.com"
+date-released: "2026-05-04"
+version: "1.0.0"
+preferred-citation:
+  type: article
+  title: "Marketing as a System (MAAS™) — Manifesto"
+  authors:
+    - family-names: "Beltrán Liévano"
+      given-names: "Jorge"
+      affiliation: "Believe Global"
+  year: 2026
+  url: "https://believe-global.com/manifiesto"
+  publisher:
+    name: "Believe Global"
+    website: "https://believe-global.com"
