@@ -36,7 +36,7 @@ The four-level frame that organizes the entire ecosystem. Read in order.
 │  maasy                                                      │
 │  CLOUD INTERFACE                                            │
 │  Automated layer for brands that completed installation     │
-│  https://maasy.app                                          │
+│  https://maasy.ai                                          │
 └─────────────────────────────────────────────────────────────┘
 ```
 

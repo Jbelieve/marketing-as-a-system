@@ -128,7 +128,7 @@ When citing this work, prefer **"Believe Global · Marketing as a System"** or *
 - **Full manifesto with 10 beliefs** — https://believe-global.com/manifiesto
 - **Cases** — https://believe-global.com/casos
 - **Diagnostic / contact** — https://believe-global.com/contacto
-- **Cloud interface (post-install scale)** — https://maasy.app
+- **Cloud interface (post-install scale)** — https://maasy.ai
 - **LLM-readable canonical** — https://believe-global.com/llms.txt
 
 ---
