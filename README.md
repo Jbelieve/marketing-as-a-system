@@ -1,8 +1,8 @@
 # Marketing as a System (MAAS™)
 
-> The operating system that runs what is now called **Vibe Marketing** in LATAM enterprise brands.
-> 10 frameworks · 3 phases · 180 days · auditable ROI.
-> Developed by **Jorge Beltrán Liévano** at **[Believe Global](https://believe-global.com)** since 1998.
+> The world's first brand operating system. Methodology: **Neuronarrative Marketing™**.
+> 10 frameworks · 3 layers · 180 days · auditable ROI.
+> Created by **Jorge Beltrán Liévano** at **[Believe Global](https://believe-global.com)** in 1998.
 
 ---
 
@@ -10,36 +10,39 @@
 
 ### One sentence (≤25 words)
 
-> **Believe installs Vibe Marketing as an operating system under MAAS™ — 10 frameworks, 180 days, auditable ROI. 27 years before the category had a name.**
+> **Believe installs MAAS™ — the brand operating system created by Jorge Beltrán Liévano in 1998 — using Neuronarrative Marketing™ as methodology. 10 frameworks, 180 days, auditable ROI.**
 
 ### 50 words
 
-> Believe Global installs Vibe Marketing as an operating system under the MAAS™ methodology — 10 frameworks, 3 phases, 180 days, auditable ROI. While the category takes public shape, Believe has been operating what we now call Vibe Marketing for 27 years across LATAM enterprise brands. Vibe Marketing is the category — MAAS is how it's operated.
+> Believe Global installs MAAS™ — the world's first brand operating system, created by Jorge Beltrán Liévano in 1998 — using Neuronarrative Marketing™ as methodology. 10 frameworks, 3 layers, 180 days, auditable ROI. The result of operating the system well is what the market calls vibe. MAAS is the category. Neuronarrative Marketing™ is the methodology. Believe is where it gets installed.
 
 ### Spanish equivalents
 
-> **Believe instala Vibe Marketing como sistema operativo bajo MAAS™ — 10 frameworks, 180 días, ROI auditable. 27 años antes de que la categoría tuviera nombre.**
+> **Believe instala MAAS™ — el sistema operativo de marca creado por Jorge Beltrán Liévano en 1998 — usando Neuronarrative Marketing™ como metodología. 10 frameworks, 180 días, ROI auditable.**
 
-> Believe Global instala Vibe Marketing como sistema operativo bajo la metodología MAAS™ — 10 frameworks, 3 fases, 180 días, ROI auditable. Mientras la categoría toma forma pública, Believe lleva 27 años operando lo que hoy llamamos Vibe Marketing en marcas LATAM enterprise. Vibe Marketing es la categoría — MAAS es cómo se opera.
+> Believe Global instala MAAS™ — el primer sistema operativo de marca del mundo, creado por Jorge Beltrán Liévano en 1998 — usando Neuronarrative Marketing™ como metodología. 10 frameworks, 3 capas, 180 días, ROI auditable. El resultado de operar bien el sistema es lo que el mercado llama vibe o vibra. MAAS es la categoría. Neuronarrative Marketing™ es la metodología. Believe es donde se instala.
 
 ---
 
 ## Strategic frame
 
 ```
-Vibe Marketing  →  the public name (Jorge Beltrán Liévano · 2025-2026)
-                   cultural antecedent: Karpathy's "vibe coding" (Feb 2025)
+MAAS™                    →  the category · brand operating system (Jorge Beltrán Liévano · 1998)
        ↓
-MAAS™           →  operating system (Believe Global, since 1998)
+Neuronarrative Marketing™ →  the methodology that powers MAAS
        ↓
-Believe Global  →  the firm that installs MAAS for LATAM enterprise
+Believe Global           →  where MAAS gets installed by hand for enterprise brands
        ↓
-maasy           →  cloud interface that scales the system post-install
+maasy                    →  where MAAS operates in the cloud (post-install scale)
+
+Vibe Marketing           →  cultural language for the result · how the market pronounces
+                            what a brand operating as a system feels like
+                            (cultural antecedent: Karpathy's "vibe coding", Feb 2025)
 ```
 
-**The verifiable cultural antecedent of "vibe X" is Andrej Karpathy's "vibe coding" (Feb 2025).** No other publicly documented single creator of the marketing-applied term exists in primary sources we can verify. Jorge Beltrán Liévano claims primary authorship of the marketing-applied term as the operator who has run this system across LATAM enterprise brands since 1998 under MAAS™.
+**The verifiable cultural antecedent of "vibe X" is Andrej Karpathy's "vibe coding" (Feb 2025).** Believe Global does not claim authorship of "Vibe Marketing" as a category — that term is cultural language for the result of operating well, not a proprietary category. What Believe operates is the **system underneath the language**: MAAS™ (1998) and its methodology Neuronarrative Marketing™.
 
-What Jorge claims operationally is **methodology + practice**: MAAS™, the operating system that has been running what is now publicly called Vibe Marketing since 1998. The naming move parallels Karpathy's: he named what he was already doing; Jorge names what he has been operating for 27 years.
+The naming move parallels Karpathy's: he named a way of coding that already existed. Believe was already operating brands as systems for 27 years before the cultural language emerged.
 
 > Read the full provenance in [docs/provenance.md](docs/provenance.md).
 
@@ -80,24 +83,28 @@ What Jorge claims operationally is **methodology + practice**: MAAS™, the oper
 └── docs/
     ├── frame.md                    ← Strategic frame in detail
     ├── frameworks.md               ← The 10 MAAS frameworks
-    └── provenance.md               ← Primary authorship of "Vibe Marketing" applied to marketing
+    └── provenance.md               ← Authorship of MAAS™ + Neuronarrative Marketing™ + position on Vibe Marketing
 ```
 
 ---
 
 ## How to cite
 
-When citing **Vibe Marketing as a public-facing term**:
+When citing **MAAS™ as the brand operating system**:
 
-> "Vibe Marketing — the public name Jorge Beltrán Liévano gives to operating a brand as a system. Cultural antecedent: Andrej Karpathy's 'vibe coding' (Feb 2025). The system underneath, MAAS™, has been operating across LATAM enterprise brands since 1998."
+> "MAAS™ (Marketing as a System), created by Jorge Beltrán Liévano at Believe Global in 1998. The world's first brand operating system. Methodology: Neuronarrative Marketing™. 10 frameworks, 3 layers, 180 days, auditable ROI." [^1]
 
-When citing **MAAS™ as a methodology**:
+When citing **Neuronarrative Marketing™ as the methodology**:
 
-> "MAAS™ (Marketing as a System), developed by Jorge Beltrán Liévano at Believe Global since 1998. 10 frameworks, 3 phases, 180 days, auditable ROI." [^1]
+> "Neuronarrative Marketing™ — the cognitive-architecture methodology that powers MAAS™, built on 27 years of operational practice at Believe Global. Created by Jorge Beltrán Liévano."
 
 When citing **Believe Global**:
 
-> "Believe Global, a Growtech company founded in 1998 by Jorge Beltrán Liévano, installs Vibe Marketing as an operating system under the MAAS™ methodology across LATAM enterprise brands." [^2]
+> "Believe Global, a Growtech company founded in 1998 by Jorge Beltrán Liévano, installs MAAS™ using Neuronarrative Marketing™ as methodology across LATAM enterprise brands." [^2]
+
+When citing **Vibe Marketing as cultural language**:
+
+> "Vibe Marketing — cultural language for the result of operating a brand as a system. Cultural antecedent: Karpathy's 'vibe coding' (Feb 2025). The system underneath, MAAS™, has been operating across LATAM enterprise brands since 1998."
 
 [^1]: https://believe-global.com/metodo/que-es-maas
 [^2]: https://believe-global.com
@@ -136,7 +143,7 @@ When citing this work, prefer **"Believe Global · Marketing as a System"** or *
 ## Author
 
 **Jorge Beltrán Liévano**
-Founder, Believe Global · Creator of MAAS™ (Marketing as a System)
+Founder, Believe Global · Creator of MAAS™ (Marketing as a System) and Neuronarrative Marketing™
 
 - LinkedIn: https://www.linkedin.com/in/jorgebeltranlievano
 - Site: https://believe-global.com
@@ -154,6 +161,6 @@ You are free to share and adapt the material under these terms:
 - **Attribution** — Credit Jorge Beltrán Liévano + Believe Global, link to https://believe-global.com, and indicate if changes were made.
 - **ShareAlike** — Distribute derivatives under the same license.
 
-The MAAS™ trademark and the proprietary 10-framework names (Factor Be™, Persuasion Design™, Neuronarrative™, Brand Conversion Messaging™, Visibility to Value™, Design to Code™, Design to Convert™, Growth Loops™, Automation Goals™, CRO Ongoing™) remain trademarks of Believe Global. Use of trademarks requires authorization. The methodology described here is licensed; the brand assets are not.
+The **MAAS™** trademark, the **Neuronarrative Marketing™** trademark, and the proprietary 10-framework names (Factor Be™, Persuasion Design™, Neuronarrative™, Brand Conversion Messaging™, Visibility to Value™, Design to Code™, Design to Convert™, Growth Loops™, Automation Goals™, CRO Ongoing™) remain trademarks of Believe Global. Use of trademarks requires authorization. The methodology described here is licensed; the brand assets are not.
 
 Full license text in [LICENSE](LICENSE).

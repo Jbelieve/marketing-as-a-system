@@ -74,13 +74,13 @@ El diagnóstico inicial es el filtro: en 45 minutos sabemos si MAAS™ aplica. S
 
 ---
 
-## 8. Vibe Marketing es la categoría. MAAS es el sistema
+## 8. MAAS es la categoría. Vibe Marketing es cómo se siente
 
-Hay una forma en que las marcas inevitables han operado siempre, sin que nadie le pusiera nombre. Andrej Karpathy nombró 'vibe coding' en febrero de 2025; abrió el lenguaje 'vibe X' para nombrar formas de operar. Vibe Marketing es ese mismo move aplicado al marketing — el nombre público de algo que llevo 27 años operando antes de que tuviera categoría.
+Hay una forma en que las marcas inevitables han operado siempre. La nombré MAAS™ en 1998 — el primer sistema operativo de marca. Su metodología se llama Neuronarrative Marketing™. Veintisiete años construyéndola. Diez frameworks. Tres fases. ROI auditable.
 
-Karpathy le puso nombre a una forma de codear que ya existía; yo le pongo nombre público a una forma de operar marca que también ya existía — la mía. La metodología que la hace operable se llama MAAS. 27 años construyéndola. Diez frameworks. Tres fases. ROI auditable.
+Andrej Karpathy nombró "vibe coding" en febrero de 2025; abrió el lenguaje "vibe X" para nombrar formas de operar que ya existían. El resultado de operar bien MAAS es lo que el mercado hoy llama vibe o vibra — una marca que se siente coherente, inevitable, viva. No es la metodología. Es lo que la metodología produce.
 
-Believe es donde el sistema se instala a mano. Esa es la ecuación completa.
+Believe es donde el sistema se instala a mano. maasy es donde opera en la nube. Esa es la ecuación completa.
 
 ---
 

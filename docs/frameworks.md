@@ -17,10 +17,10 @@ MAAS organizes into **three layers** and **ten frameworks**:
 | **Outer** (Capa Externa) | 2. Persuasion Design™<br>3. Neuronarrative™<br>4. Brand Conversion Messaging™<br>5. Visibility to Value™ | Perception, narrative, conversion |
 | **Operational** (Capa Operativa) | 6. Design to Code™<br>7. Design to Convert™<br>8. Growth Loops™<br>9. Automation Goals™<br>10. CRO Ongoing™ | Output, scale, retention |
 
-These three layers map to the **five operable layers of Vibe Marketing**:
+These three layers map to the **five operable layers of MAAS**:
 
 ```
-Vibe Marketing layer    →  MAAS frameworks
+MAAS layer              →  MAAS frameworks
 ─────────────────────────────────────────────────────
 Perception              →  Factor Be
 Narrative               →  Neuronarrative + Persuasion Design
