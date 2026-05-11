@@ -1,5 +1,7 @@
 # Measurement — How MAAS™ went from operational practice to measurable system
 
+> Versión en español: [medicion.md](medicion.md)
+
 For 27 years, **Neuronarrative Marketing™** produced what the market now calls *vibe* — coherent, inevitable, alive — through operational discipline. Practitioners knew it worked because the brands kept growing in silence.
 
 In **2026**, that operational knowledge gained an external instrument.

@@ -83,11 +83,10 @@ The naming move parallels Karpathy's: he named a way of coding that already exis
 │   ├── definition.md               ← Three canonical versions
 │   └── glossary.md                 ← Ecosystem terms
 └── docs/
-    ├── frame.md                    ← Strategic frame in detail
-    ├── frameworks.md               ← The 10 MAAS frameworks
-    ├── measurement.md              ← Neurocoherence axioms · TRIBE v2 validation · BRA · Ecosystem Intelligence
-    ├── medicion.md                 ← Spanish twin of measurement.md
-    └── provenance.md               ← Authorship of MAAS™ + Neuronarrative Marketing™ + position on Vibe Marketing
+    ├── frame.md / marco.md                ← Strategic frame in detail (EN / ES)
+    ├── frameworks.md / los-10-frameworks.md ← The 10 MAAS frameworks (EN / ES)
+    ├── measurement.md / medicion.md        ← Neurocoherence · TRIBE v2 · BRA · Ecosystem Intelligence (EN / ES)
+    └── provenance.md / autoria.md          ← Authorship of MAAS™ + Neuronarrative Marketing™ + position on Vibe Marketing (EN / ES)
 ```
 
 ---

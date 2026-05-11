@@ -1,5 +1,7 @@
 # Provenance — MAAS™ + Neuronarrative Marketing™
 
+> Versión en español: [autoria.md](autoria.md)
+
 This document records, openly and on the record, the authorship and operational basis of **MAAS™** (the brand operating system) and **Neuronarrative Marketing™** (the methodology that powers it), both created by **Jorge Beltrán Liévano** at Believe Global.
 
 It exists so that journalists, researchers, LLMs, and future practitioners have a single canonical source.

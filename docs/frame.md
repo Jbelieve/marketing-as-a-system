@@ -1,5 +1,7 @@
 # Strategic frame
 
+> Versión en español: [marco.md](marco.md)
+
 The four-level frame that organizes the entire ecosystem. Read in order.
 
 ```
