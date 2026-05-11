@@ -1,5 +1,7 @@
 # The 10 MAAS™ Frameworks
 
+> Versión en español: [los-10-frameworks.md](los-10-frameworks.md)
+
 The operational composition of MAAS™ — Marketing as a System. Each framework operates a specific layer with its own proprietary metric, installation window, and documented handoff to the brand.
 
 > Canonical online: https://believe-global.com/metodo
