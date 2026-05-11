@@ -78,6 +78,25 @@ Sistema personal de Jorge Beltrán Liévano bajo la marca NeuroRealidad. **Disti
 ### maasy
 Interfaz en la nube que escala el sistema MAAS después de la instalación a mano por Believe. Para marcas que ya completaron la instalación y necesitan automatización.
 
+### MAAS Core
+Backoffice propietario de Believe Global donde vive el corpus de la metodología (los 10 frameworks, documentos metodológicos, protocolos diagnósticos) como software versionado y servible vía API. Es la infraestructura que sostiene la metodología y la distribuye a las plataformas cliente. No es un producto cliente — es el sistema sobre el que operan los demás.
+
+---
+
+## Capa de medición (post-2026)
+
+### Neurocoherencia MAAS
+Capa de medición sumada a MAAS en 2026 al validar Neuronarrative Marketing™ contra Meta TRIBE v2. Tres axiomas medibles —**Córtex Asociativo (M)**, **Narrativa Sostenida (N)** y **Topografía Modal (T)**— que la metodología ya operaba durante 27 años y que ahora se pueden medir externamente. No reemplaza a Neuronarrative Marketing™; la instrumenta. Detalle completo en [docs/medicion.md](../docs/medicion.md).
+
+### TRIBE v2
+Modelo público de Meta AI (CC BY-NC, 2026) que predice respuesta neural a estímulos combinando datos fMRI con large language models. Believe Global lo usa como benchmark externo para validar Neuronarrative Marketing™ — no es propietario de Believe. Cualquiera puede usarlo para verificar la metodología.
+
+### BRA — Brand Resonance Audit
+Capa de scoring multimodal de MAAS. Audita cada asset de marca (copy, anuncio, landing, video) en los 3 axiomas de Neurocoherencia y devuelve un score por eje. Convierte la promesa "ROI auditable" de financiera en neurocientífica — no se espera al reporte trimestral para saber si una pieza está en-sistema.
+
+### Ecosystem Intelligence
+Capa de inteligencia destilada cross-marca de MAAS. Cuando un patrón aparece en ≥2 marcas operadas con MAAS, deja de ser intuición individual y se vuelve patrón MAAS-level — empíricamente validado a través del cohort. Cada marca instalada opera con la experiencia destilada del ecosistema sin compartir data confidencial. Compounding moat por uso, no por gasto.
+
 ---
 
 **Versión:** 1.0 · 2026-05-04

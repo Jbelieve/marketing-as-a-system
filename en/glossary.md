@@ -78,6 +78,25 @@ Personal system by Jorge Beltrán Liévano under the NeuroRealidad brand. **Dist
 ### maasy
 Cloud interface that scales the MAAS system after hand installation by Believe. For brands that have completed installation and need automation.
 
+### MAAS Core
+Believe Global's proprietary backoffice where the methodology corpus (the 10 frameworks, methodology documents, diagnostic protocols) lives as versioned software, served via API to client platforms. The infrastructure that holds the methodology and distributes it. Not a client product — the system the others run on.
+
+---
+
+## Measurement layer (post-2026)
+
+### MAAS Neurocoherence
+Measurement layer added to MAAS in 2026 when Neuronarrative Marketing™ was validated against Meta TRIBE v2. Three measurable axioms — **Associative Cortex (M)**, **Sustained Narrative (N)**, **Modal Topography (T)** — that the methodology had been operating on for 27 years and can now be measured externally. Does not replace Neuronarrative Marketing™; it instruments it. Full detail in [docs/measurement.md](../docs/measurement.md).
+
+### TRIBE v2
+Public Meta AI model (CC BY-NC, 2026) that predicts neural response to stimuli by combining fMRI data with large language models. Believe Global uses it as an external benchmark to validate Neuronarrative Marketing™ — it is not Believe-proprietary. Anyone can use it to verify the methodology.
+
+### BRA — Brand Resonance Audit
+MAAS's multimodal scoring layer. Audits every brand asset (copy, ad, landing, video) across the 3 Neurocoherence axioms and returns a score per axis. Turns the "auditable ROI" promise from financial to neuroscientific — no waiting for the quarterly report to know if a piece is on-system.
+
+### Ecosystem Intelligence
+MAAS's distilled cross-brand intelligence layer. When a pattern appears in ≥2 brands operated under MAAS, it stops being individual intuition and becomes a MAAS-level pattern — empirically validated across the cohort. Each installed brand operates with the distilled experience of the ecosystem without sharing confidential data. Compounding moat by use, not by spend.
+
 ---
 
 **Version:** 1.0 · 2026-05-04

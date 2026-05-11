@@ -61,6 +61,8 @@ The naming move parallels Karpathy's: he named a way of coding that already exis
 | Frameworks | 10 (across inner / outer / operational layers) |
 | Operable layers | 5 (perception · narrative · conversion · automation · network) |
 | Cohort cap | Max 4 simultaneous installations |
+| External validation | Meta TRIBE v2 (fMRI-LLM, CC BY-NC, 2026) — produced 3 measurable axioms (M / N / T) |
+| Measurement layer | Brand Resonance Audit (BRA) — multimodal scoring per asset |
 | Canonical site | https://believe-global.com |
 
 ---
@@ -83,6 +85,8 @@ The naming move parallels Karpathy's: he named a way of coding that already exis
 └── docs/
     ├── frame.md                    ← Strategic frame in detail
     ├── frameworks.md               ← The 10 MAAS frameworks
+    ├── measurement.md              ← Neurocoherence axioms · TRIBE v2 validation · BRA · Ecosystem Intelligence
+    ├── medicion.md                 ← Spanish twin of measurement.md
     └── provenance.md               ← Authorship of MAAS™ + Neuronarrative Marketing™ + position on Vibe Marketing
 ```
 
